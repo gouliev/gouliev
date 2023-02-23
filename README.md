@@ -9,7 +9,7 @@ As someone who loves to tell stories with data, I find joy in working with machi
 
 </h2> 
 
-I express a deep passion for the entire data science process - from the crucial preprocessing stage of cleaning datasets, to applying cutting-edge machine learning models, and finally deploying them for production and live use. One of my favorite aspects of this work is the challenge of uncovering anomalies, patterns, and trends, and delving deeply into the data to understand how various factors impact it. My background in data and statistics, including a B.Sc in Economics and an M.Sc in Computer Science, has equipped me with the skills to excel in this field. Currently, I am pursuing my second M.Sc in Human-Centered Artificial Intelligence to further expand my knowledge and expertise.
+I express a deep passion for the entire data science process - from the crucial preprocessing stage of cleaning datasets, to applying cutting-edge machine learning models, and finally deploying them for production and live use. One of my favorite aspects of this work is the challenge of uncovering anomalies, patterns, and trends, and delving deeply into the data to understand how various factors impact it. My background in data and statistics, including a B.Sc in Economics and an M.Sc in Computer Science, has equipped me with the skills to excel in this field.
 
 ### 🤝 💬 Feel free to connect with me on GitHub if any of my projects catch your interest, or if you're interested in collaborating on a project together. As a data enthusiast, I often spend my weekends spending ridiculous amounts of wasted time pushing my computers GPU to maximum capacity (optimising the big O).
 
