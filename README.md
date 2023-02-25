@@ -109,4 +109,4 @@ I express a deep passion for the entire data science process - from the crucial 
 
 ## 📈 GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gouliev)](https://github.com/gouliev)
+[!Zaur's github stats](https://github-readme-stats.vercel.app/api?username=gouliev)](https://github.com/gouliev)
