@@ -1,11 +1,11 @@
-![Zaur Gouliev](https://user-images.githubusercontent.com/91686296/220771699-cd79a054-9eaa-4ac7-92be-d44971a23080.png)
+![Banner](https://user-images.githubusercontent.com/91686296/230935689-afb418b8-ff59-449b-b615-6a12044efb8a.png)
 
 <h3 align="center">
 Hi there, I'm <a href="https://www.github.com/gouliev" target="_blank" rel="noreferrer">Zaur</a> 👋
 </h3>
 
 <h2 align="center">
-As someone who loves to tell stories with data, I find joy in working with machine learning models to analyze various types of datasets. Recently, my focus has been on developing, implementing and working on AI/ML models, especially in the field of Natural Language Processing (NLP).
+As someone who loves to tell stories with data, I find joy in my spare time working with artificial intelligence & machine learning models to analyse various types of datasets in order to obtain predictability with the goal of creating user products. Recently, my focus has been on developing, implementing and working on AI/ML analytics products, especially in the field of Natural Language Processing (NLP) such as chatbots.
 
 </h2> 
 
