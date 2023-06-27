@@ -1,32 +1,3 @@
-![Banner](https://user-images.githubusercontent.com/91686296/230935689-afb418b8-ff59-449b-b615-6a12044efb8a.png)
-
-<h3 align="center">
-Hi there, I'm <a href="https://www.github.com/gouliev" target="_blank" rel="noreferrer">Zaur</a> 👋
-</h3>
-
-<h2 align="center">
-As someone who loves to tell stories with data, I find joy in my spare time working with artificial intelligence & machine learning models to analyse various types of datasets in order to obtain predictability with the goal of creating user products. Recently, my focus has been on developing, implementing and working on AI/ML analytics products, especially in the field of Natural Language Processing (NLP) such as chatbots.
-
-</h2> 
-
-I express a deep passion for the entire data science process - from the crucial preprocessing stage of cleaning datasets, to applying cutting-edge machine learning models, and finally deploying them for production and live use. One of my favorite aspects of this work is the challenge of uncovering anomalies, patterns, and trends, and delving deeply into the data to understand how various factors impact it. My background in data and statistics, including a B.Sc in Economics and an M.Sc in Computer Science, has equipped me with the skills to excel in this field.
-
-### 🤝 💬 Feel free to connect with me on GitHub if any of my projects catch your interest, or if you're interested in collaborating on a project together. As a data enthusiast, I often spend my weekends spending ridiculous amounts of wasted time pushing my computers GPU to maximum capacity (optimising the big O).
-
-## 🔭 I'm currently working on
-
-- I am writing an NLP research paper that analyzes a dataset of one million news headlines using machine learning to extract semantic meaning.
-- I am writing an ethics paper exploring the potential impact of ChatGPT3 (LLMs/Transformer Architectures) on academic integrity.
-- I am currently working on developing my own algorithm that can effectively detect negative or conflicting comments during dialogues.
-- I have created my own website, which showcases my various projects and experiences in the field of data science which I am launching soon.
-
-## 🌱 I'm currently learning
-
-- Advanced Python Programming
-- AWS Cloud Services
-- AWS Machine Learning Services
-- Deep Learning Methods  
-
 ## 💼 Technical Skills / Toolbox
 
 <table>
