@@ -74,10 +74,3 @@
 </table>
 
 </table>
-
-
-
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gouliev)](https://github.com/gouliev)
