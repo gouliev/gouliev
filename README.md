@@ -1,29 +1,3 @@
-![Monochrome Minimalist Graphic Designer Email Header-1](https://github.com/gouliev/gouliev/assets/91686296/735cc6f7-99ed-4b5d-838d-b54de5d58b40)
-
-<h3 align="center">Hi there, I'm <a href="https://www.github.com/gouliev" target="_blank" rel="noreferrer">Zaur</a 👋</h3>
-
-<h2 align="center">This is my GitHub page where I post some side projects and personal work I am undertaking. Feel free to connect with me on GitHub if any of my projects catch your interest, or if you're interested in collaborating on a project together</h2>
-
-<h2 align="center">
-As someone who loves to work with data, I find joy building, scaling and managing data products. I express a deep passion for the entire data science process - from the crucial preprocessing stage of cleaning datasets, to applying cutting-edge machine learning models, and finally deploying them for production and live use. One of my favorite aspects of this work is the challenge of uncovering anomalies, patterns, and trends, and delving deeply into the data to understand how various factors impact it. I hold a B.Sc in Economics from University College Dublin (UCD), and an M.Sc in Computer Science, specializing in Artificial Intelligence and Machine Learning, also from University Dublin College (UCD) and this formal education has helped me excel in many aspects of these tasks.
-</h2> 
-
-
-## 🔭 I'm currently working on
-
-- I am writing an NLP research paper that analyzes a dataset of one million news headlines using machine learning to extract semantic meaning.
-- I am writing an ethics paper exploring the potential impact of ChatGPT3 (LLMs/Transformer Architectures) on academic integrity.
-- I am currently working on developing my own algorithm that can effectively detect negative or conflicting comments during dialogues.
-- I have created my own website, which showcases my various projects and experiences in the field of data science which I am launching soon.
-
-## 🌱 I'm currently learning
-
-- Advanced Python Programming
-- AWS Cloud Services
-- AWS Machine Learning Services
-- Deep Learning Methods  
-
-
 ## 💼 Technical Skills / Toolbox
 
 <table>
