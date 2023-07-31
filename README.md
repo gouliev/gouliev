@@ -138,7 +138,3 @@ Hey there! I'm Zaur, an accomplished software and product manager with a strong 
 - jQuery
 
 Let's build something amazing together! 🚀
-
-## 📈 GitHub Stats 
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gouliev)](https://github.com/gouliev)
