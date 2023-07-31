@@ -12,55 +12,6 @@ Hey there! I'm Zaur, an accomplished software and product manager with a strong 
 - 1x M.Sc in Human-Centered Artificial Intelligence from Technical University Dublin
 - 1x B.Sc in Economics and Econometrics 
 
-## Technical Skills
-
-### Programming Languages
-- Python
-- Java
-- JS, HTML5, CSS3
-- SQL
-- PHP
-
-### AI/ML Frameworks
-- TensorFlow
-- PyTorch
-- scikit-learn
-- Keras
-- OpenCV
-- OpenNN
-
-### Big Data Technologies
-- Hadoop
-- Spark
-
-### Cloud Platforms
-- Google Cloud Platform (GCP)
-- Microsoft Azure
-- AWS
-
-### Containerization & Deployment
-- Kubernetes
-- Docker
-
-### Project Management Tools
-- Jira
-- Confluence
-
-### Databases
-- SQL
-- MongoDB
-
-### Business Intelligence
-- Power BI
-
-### Frontend Technologies
-- React
-- Flask
-- Djangos
-- AngularJS
-- jQuery
-
-Let's build something amazing together! 🚀
 ## 💼 Toolbox
 
 <table>
@@ -138,8 +89,55 @@ Let's build something amazing together! 🚀
 
 </table>
 
+## Technical Skills
 
+### Programming Languages
+- Python
+- Java
+- JS, HTML5, CSS3
+- SQL
+- PHP
 
+### AI/ML Frameworks
+- TensorFlow
+- PyTorch
+- scikit-learn
+- Keras
+- OpenCV
+- OpenNN
+
+### Big Data Technologies
+- Hadoop
+- Spark
+
+### Cloud Platforms
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- AWS
+
+### Containerization & Deployment
+- Kubernetes
+- Docker
+
+### Project Management Tools
+- Jira
+- Confluence
+
+### Databases
+- SQL
+- MongoDB
+
+### Business Intelligence
+- Power BI
+
+### Frontend Technologies
+- React
+- Flask
+- Djangos
+- AngularJS
+- jQuery
+
+Let's build something amazing together! 🚀
 
 ## 📈 GitHub Stats 
 
