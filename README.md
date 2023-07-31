@@ -1,4 +1,67 @@
-## 💼 Technical Skills / Toolbox
+![Hello, my name is Zaur!  Nice to meet you](https://github.com/gouliev/gouliev/assets/91686296/f42144b1-4019-42e4-8339-e0245bcd0763)
+
+# Zaur - Product Manager, Data Scientist, Software Engineer (Machine Learning/Artificial Intelligence)
+
+## Introduction
+
+Hey there! I'm Zaur, an accomplished software and product manager with a strong background in building data solutions and applications that leverage AI/ML technologies. Over the past number of years, I have dedicated myself to driving successful AI-based products and leading high-performing teams. My unique blend of technical expertise and product leadership experience allows me to excel in both technical and non-technical roles.
+
+## Education
+
+- 1x M.Sc in Computer Science from University College Dublin
+- 1x M.Sc in Human-Centered Artificial Intelligence from Technical University Dublin
+- 1x B.Sc in Economics and Econometrics 
+
+## Technical Skills
+
+### Programming Languages
+- Python
+- Java
+- JS, HTML5, CSS3
+- SQL
+- PHP
+
+### AI/ML Frameworks
+- TensorFlow
+- PyTorch
+- scikit-learn
+- Keras
+- OpenCV
+- OpenNN
+
+### Big Data Technologies
+- Hadoop
+- Spark
+
+### Cloud Platforms
+- Google Cloud Platform (GCP)
+- Microsoft Azure
+- AWS
+
+### Containerization & Deployment
+- Kubernetes
+- Docker
+
+### Project Management Tools
+- Jira
+- Confluence
+
+### Databases
+- SQL
+- MongoDB
+
+### Business Intelligence
+- Power BI
+
+### Frontend Technologies
+- React
+- Flask
+- Djangos
+- AngularJS
+- jQuery
+
+Let's build something amazing together! 🚀
+## 💼 Toolbox
 
 <table>
   <tr>
@@ -74,3 +137,10 @@
 </table>
 
 </table>
+
+
+
+
+## 📈 GitHub Stats 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gouliev)](https://github.com/gouliev)
