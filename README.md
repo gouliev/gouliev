@@ -4,11 +4,10 @@
 
 ## Introduction
 
-Hey there! I'm Zaur, an accomplished software and product manager with a strong background in building data solutions and applications that leverage AI/ML technologies. Over the past number of years, I have dedicated myself to driving successful AI-based products and leading high-performing teams. My unique blend of technical expertise and product leadership experience allows me to excel in both technical and non-technical roles.
+Hey there! I'm Zaur, an accomplished software, IT and product manager with a strong background in building data solutions and applications that leverage AI/ML technologies. Over the past number of years, I have dedicated myself to driving successful AI-based products and leading high-performing teams. My unique blend of technical expertise and product leadership experience allows me to excel in both technical and non-technical roles.
 
 ## Education
 
-- 1x M.Sc in Human-Centered Artificial Intelligence from Technical University Dublin
 - 1x M.Sc in Computer Science from University College Dublin
 - 1x B.Sc in Economics and Econometrics 
 
