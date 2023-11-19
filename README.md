@@ -1,9 +1,9 @@
 ![Hello, my name is Zaur!  Nice to meet you](https://github.com/gouliev/gouliev/assets/91686296/f42144b1-4019-42e4-8339-e0245bcd0763)
 
 ## Education
-- 1x M.Sc in Human Centered Artificial Intelligence
+- 1x M.Sc in Human Centered Artificial Intelligence Technological University Dublin
 - 1x M.Sc in Computer Science from University College Dublin
-- 1x B.Sc in Economics and Econometrics 
+- 1x B.Sc in Economics from University College Dublin
 
 ## 💼 Toolbox
 
@@ -99,67 +99,3 @@
 </table>
 
 </table>
-
-Great! I've updated the list to make it more representative:
-
-## Technical Skills
-
-### Programming Languages
-- Python
-- Java
-- JavaScript (JS)
-- HTML5
-- CSS3
-- SQL
-- PHP
-
-### AI/ML Frameworks
-- TensorFlow
-- PyTorch
-- scikit-learn
-- Keras
-- OpenCV
-- OpenNN
-
-### Big Data Technologies
-- Hadoop
-- Spark
-- Apache Kafka
-
-### Cloud Platforms
-- Google Cloud Platform (GCP)
-- Microsoft Azure
-- Amazon Web Services (AWS)
-
-### Containerization & Deployment
-- Kubernetes
-- Docker
-- Helm
-
-### Project Management Tools
-- Jira
-- Confluence
-- Trello
-
-### Databases
-- SQL (MySQL, PostgreSQL, etc.)
-- MongoDB
-
-### Business Intelligence
-- Power BI
-- Tableau
-
-### Frontend Technologies
-- React
-- AngularJS
-- Vue.js
-- jQuery
-
-### Backend Technologies
-- Flask
-- Django
-- Node.js
-- Express.js
-
-
-Let's build something amazing together! 🚀
