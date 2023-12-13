@@ -1,5 +1,6 @@
 ![Hello, my name is Zaur!  Nice to meet you](https://github.com/gouliev/gouliev/assets/91686296/f42144b1-4019-42e4-8339-e0245bcd0763)
 
+Recent paper: (https://dl.acm.org/doi/10.1145/3633083.3633189)
 ## Education
 - 1x M.Sc in Human Centered Artificial Intelligence Technological University Dublin
 - 1x M.Sc in Computer Science from University College Dublin
