@@ -11,10 +11,6 @@ Here are some highlights:
 - 🚀 **Projects**: I've launched two applications this year - a map visualizing FIMI ([FIMI Map](https://www.fimi-map.eu/)) and a Media Bias Checker ([Media Bias Checker](https://mediabiasapp.vercel.app/)), aimed at promoting information integrity and transparency.
 Here are some highlights:
 
-- 📚 **Education**: B.Sc in Economics, M.Sc in Computer Science, and M.Sc in Human-Centered Artificial Intelligence.
-- 📝 **Publications**: I've recently published a paper on Predictive Models and XAI ([ACM 2023](https://dl.acm.org/doi/10.1145/3633083.3633189)) and have another 2 papers accepted for pending publication on Sentiment Analysis ([LKE 2024](https://lkesymposium.tudublin.ie/)) and Abusive Language Detection (TBD).
-- 🚀 **Projects**: I've launched two applications this year - a map visualizing FIMI ([FIMI Map](https://www.fimi-map.eu/)) and a Media Bias Checker ([Media Bias Checker](https://mediabiasapp.vercel.app/)), aimed at promoting information integrity and transparency.
-
 ## 💼 Toolbox
 
 <table>
