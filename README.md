@@ -7,7 +7,7 @@ I'm [Zaur](https://www.zaurgouliev.com/), a PhD student at [University College D
 Here are some highlights:
 
 - 📚 **Education**: B.Sc in Economics 2018, M.Sc in Computer Science 2021, and M.Sc in Human-Centered Artificial Intelligence 2023.
-- 📝 **Publications**: I've recently published a paper on Predictive Models and XAI ([ACM 2023](https://dl.acm.org/doi/10.1145/3633083.3633189)) and have another 2 papers accepted for pending publication on Sentiment Analysis ([LKE 2024](https://lkesymposium.tudublin.ie/)) and Abusive Language Detection (TBD).
+- 📝 **Publications**: I've recently published a paper on Predictive Models and XAI ([ACM 2023](https://dl.acm.org/doi/10.1145/3633083.3633189)) and have another 2 papers preprint on Sentiment Analysis ([LKE 2024](https://lkesymposium.tudublin.ie/)) and Abusive Language Detection (ACM 2024).
 - 🚀 **Projects**: I've launched two applications this year - a map visualizing FIMI ([FIMI Map](https://www.fimi-map.eu/)) and a Media Bias Checker ([Media Bias Checker](https://mediabiasapp.vercel.app/)), aimed at promoting information integrity and transparency.
 Here are some highlights:
 
