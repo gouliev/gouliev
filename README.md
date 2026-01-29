@@ -1,6 +1,6 @@
 # Howdy 👋
 
-I'm [Zaur](https://www.zaurgouliev.com/), a PhD student at [University College Dublin](https://www.ucd.ie/) researching Disinformation related to Foreign Information Manipulation and Interference ([FIMI](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en)) under the supervision of Brendan Spillane and co-supervision of Benjamin Cowan at the [School of Information and Communication Studies](https://www.ucd.ie/ics/) and the [ADAPT Centre](https://www.adaptcentre.ie/). I have a diverse educational background spanning Economics, Computer Science, and Human-Centered Artificial Intelligence. I've got a professional background in machine learning, crime analysis and OSINT.
+I'm [Zaur](https://www.zaurgouliev.com/), a PhD candidate at [University College Dublin](https://www.ucd.ie/) researching Disinformation related to Foreign Information Manipulation and Interference ([FIMI](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en)) under the supervision of Brendan Spillane and co-supervision of Benjamin Cowan at the [School of Information and Communication Studies](https://www.ucd.ie/ics/) and the [ADAPT Centre](https://www.adaptcentre.ie/). I have a diverse educational background spanning Economics, Computer Science, and Human-Centered Artificial Intelligence. I've got a professional background in machine learning, crime analysis and OSINT.
 
 ## Recent Work(s) ℹ️
 
