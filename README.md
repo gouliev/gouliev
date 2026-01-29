@@ -2,15 +2,6 @@
 
 I'm [Zaur](https://www.zaurgouliev.com/), a PhD candidate at [University College Dublin](https://www.ucd.ie/) researching Disinformation related to Foreign Information Manipulation and Interference ([FIMI](https://www.eeas.europa.eu/eeas/tackling-disinformation-foreign-information-manipulation-interference_en)) under the supervision of Brendan Spillane and co-supervision of Benjamin Cowan at the [School of Information and Communication Studies](https://www.ucd.ie/ics/) and the [ADAPT Centre](https://www.adaptcentre.ie/). I have a diverse educational background spanning Economics, Computer Science, and Human-Centered Artificial Intelligence. I've got a professional background in machine learning, crime analysis and OSINT.
 
-## Recent Work(s) ℹ️
-
-Here are some highlights:
-
-- 📚 **Education**: B.Sc in Economics 2018, M.Sc in Computer Science 2021, and M.Sc in Human-Centered Artificial Intelligence 2023.
-- 📝 **Publications**: I've recently published some research articles, you can check them out here: ([Predictive Models and XAI](https://dl.acm.org/doi/10.1145/3633083.3633189)); ([Abusive Language Detection and LLMs](https://dl.acm.org/doi/10.1145/3701268.3701269))
-- 🚀 **Projects**: I've launched two applications this year - a map visualizing FIMI ([FIMI Map](https://www.fimi-map.eu/)) and a Media Bias Checker ([Media Bias Checker](https://mediabiasapp.vercel.app/)), aimed at promoting information integrity and transparency.
-Here are some highlights:
-
 ## 💼 Toolbox
 
 <table>
